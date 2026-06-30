@@ -1,1 +1,1 @@
-console.log("62300 is a", 62 + 0.30 , typeof(62.3))
+console.log("62300 is a", (62 + 0.3333333333).toFixed(1) , typeof(62.3))
