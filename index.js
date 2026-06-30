@@ -1,0 +1,1 @@
+console.log("62300 is a", 62 + 0.30 , typeof(62.3))
